@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Melqui 👋
 
-<!--
-**jose2874/jose2874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer with 2 years of experience**, currently working at the **ALBA Synchrotron**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Working at the **ALBA Synchrotron**
+- 🌱 Currently learning **TypeScript** and **AI automation**
+- 🛠️ Building web applications and improving development workflows
+- 🤖 Exploring how artificial intelligence can automate repetitive tasks
+- 💬 Always open to learning and collaborating on interesting projects
+
+## 🧰 Technologies
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Angular
+
+**Backend**
+- Node.js
+- Python
+- REST APIs
+- SQL
+
+**Tools**
+- Git
+- GitHub
+- Docker
+- CI/CD
+- AI-powered tools
+
+## 📫 Contact
+
+Feel free to explore my repositories or connect with me on GitHub.
+
+---
+
+⭐ Thanks for visiting my profile!
