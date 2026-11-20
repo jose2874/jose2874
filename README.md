@@ -4,27 +4,31 @@ I'm a **Full-Stack Developer with 2 years of experience**, currently working at 
 
 ## 🚀 About Me
 
-- 💼 Working at the **ALBA Synchrotron**
+- 💼 Working at the **ALBA Synchrotron**   [Alba Syncrotron facilities](https://www.cells.es/en)
 - 🌱 Currently learning **TypeScript** and **AI automation**
 - 🛠️ Building web applications and improving development workflows
 - 🤖 Exploring how artificial intelligence can automate repetitive tasks
 - 💬 Always open to learning and collaborating on interesting projects
 
 ## 🧰 Technologies
-
-**Frontend**
-- HTML
-- CSS
+```
+Frontend
+- Astro
+- Bootstrap
 - JavaScript
 - TypeScript
 - React
-- Angular
+- HTML, CSS
 
-**Backend**
-- Node.js
-- Python
+Backend
+- FastAPI
 - REST APIs
-- SQL
+- Django
+- Java
+- Python
+- SQL -> Postgress, DBeaver, MySQL
+```
+🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
 **Tools**
 - Git
@@ -32,6 +36,7 @@ I'm a **Full-Stack Developer with 2 years of experience**, currently working at 
 - Docker
 - CI/CD
 - AI-powered tools
+```
 
 ## 📫 Contact
 
